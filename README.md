@@ -8,6 +8,7 @@ A curated list of AI video generators and resources for creators, marketers, and
 - **Pictory** – Turn long-form blog posts into short, branded videos with stock footage and captions.
 - **Vidnoz AI** – Create avatar-led videos for training, sales, and presentations with realistic voices.
 
+- **[ClipSpeedAI](https://clipspeed.ai)** – AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
 ## 📚 In‑Depth Comparisons & Guides
 - [Pictory AI vs Vidnoz AI: The Best AI Video Tool in 2026?](https://aiblogfirst.com/pictory-ai-vs-vidnoz-ai/)
 
