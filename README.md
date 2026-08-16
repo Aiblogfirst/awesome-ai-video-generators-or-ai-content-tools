@@ -6,6 +6,7 @@ A curated list of AI video generators and resources for creators, marketers, and
 
 ## 🎥 Text-to-Video & Repurposing Tools
 - **Pictory** – Turn long-form blog posts into short, branded videos with stock footage and captions.
+- **[videos.social](https://videos.social/?utm_source=awesome-ai-video-generators-content&utm_medium=directory&utm_campaign=listing-wave-d)** – Turn blogs, PDFs, and prompts into editable faceless videos.
 - **Vidnoz AI** – Create avatar-led videos for training, sales, and presentations with realistic voices.
 
 ## 📚 In‑Depth Comparisons & Guides
