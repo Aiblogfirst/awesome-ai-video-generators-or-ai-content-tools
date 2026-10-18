@@ -7,6 +7,7 @@ A curated list of AI video generators and resources for creators, marketers, and
 ## 🎥 Text-to-Video & Repurposing Tools
 - **Pictory** – Turn long-form blog posts into short, branded videos with stock footage and captions.
 - **Vidnoz AI** – Create avatar-led videos for training, sales, and presentations with realistic voices.
+- **[ShortSmash](https://github.com/abicevoice1-sudo/shortsmash)** – Open-source pipeline that turns a prompt into a published short video: 50-language dubbing, karaoke captions, 10-platform publishing. MIT.
 
 ## 📚 In‑Depth Comparisons & Guides
 - [Pictory AI vs Vidnoz AI: The Best AI Video Tool in 2026?](https://aiblogfirst.com/pictory-ai-vs-vidnoz-ai/)
