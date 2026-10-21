@@ -6,6 +6,7 @@ A curated list of AI video generators and resources for creators, marketers, and
 
 ## 🎥 Text-to-Video & Repurposing Tools
 - **Pictory** – Turn long-form blog posts into short, branded videos with stock footage and captions.
+- **ShortSmash** – Prompt-to-published short videos: AI script, neural voiceover, AI-verified stock footage, karaoke captions, one-click publish.
 - **Vidnoz AI** – Create avatar-led videos for training, sales, and presentations with realistic voices.
 
 ## 📚 In‑Depth Comparisons & Guides
