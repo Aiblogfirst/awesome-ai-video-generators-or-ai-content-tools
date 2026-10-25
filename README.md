@@ -5,6 +5,7 @@ Curated list of AI video generators, text-to-video tools, and resources for crea
 A curated list of AI video generators and resources for creators, marketers, and publishers.
 
 ## 🎥 Text-to-Video & Repurposing Tools
+- **[Ideoy](https://ideoy.ai)** – Remake trending short-form video templates from one photo or selfie.
 - **Pictory** – Turn long-form blog posts into short, branded videos with stock footage and captions.
 - **Vidnoz AI** – Create avatar-led videos for training, sales, and presentations with realistic voices.
 
